@@ -65,7 +65,7 @@ caa: Number of major vessels (0-4) colored by fluoroscopy thall: Thalium stress 
 output: Heart disease status (0: no disease, 1: presence of disease
 
 # Step 3.2 | Rename Variables
-# Step 3.4 | Basic Information
+# Step 3.3 | Basic Information
 # Step 3.5 | Statistical Summary
 # Step 4 | Exploratary Data Analysis (EDA)
 # Step 4.1 | Univariate Analysis
